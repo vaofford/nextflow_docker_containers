@@ -1,0 +1,6 @@
+[submodule "nf-paired-crispr"]
+	path = nf-paired-crispr
+	url = git@github.com:vaofford/nf-paired-crispr.git
+[submodule "nf-sge"]
+	path = nf-sge
+	url = git@github.com:vaofford/nf-sge.git
